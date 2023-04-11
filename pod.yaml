@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: prasikumar/k8project:latest
+          image: prasikumar/kubernetesproj:new
           imagePullPolicy: Always
 
